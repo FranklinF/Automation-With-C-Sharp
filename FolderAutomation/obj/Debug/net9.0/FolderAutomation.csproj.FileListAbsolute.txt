@@ -1,0 +1,15 @@
+/Users/franklin/Desktop/Automation-With-C-Sharp/FolderAutomation/bin/Debug/net9.0/FolderAutomation
+/Users/franklin/Desktop/Automation-With-C-Sharp/FolderAutomation/bin/Debug/net9.0/FolderAutomation.deps.json
+/Users/franklin/Desktop/Automation-With-C-Sharp/FolderAutomation/bin/Debug/net9.0/FolderAutomation.runtimeconfig.json
+/Users/franklin/Desktop/Automation-With-C-Sharp/FolderAutomation/bin/Debug/net9.0/FolderAutomation.dll
+/Users/franklin/Desktop/Automation-With-C-Sharp/FolderAutomation/bin/Debug/net9.0/FolderAutomation.pdb
+/Users/franklin/Desktop/Automation-With-C-Sharp/FolderAutomation/obj/Debug/net9.0/FolderAutomation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/franklin/Desktop/Automation-With-C-Sharp/FolderAutomation/obj/Debug/net9.0/FolderAutomation.AssemblyInfoInputs.cache
+/Users/franklin/Desktop/Automation-With-C-Sharp/FolderAutomation/obj/Debug/net9.0/FolderAutomation.AssemblyInfo.cs
+/Users/franklin/Desktop/Automation-With-C-Sharp/FolderAutomation/obj/Debug/net9.0/FolderAutomation.csproj.CoreCompileInputs.cache
+/Users/franklin/Desktop/Automation-With-C-Sharp/FolderAutomation/obj/Debug/net9.0/FolderAutomation.sourcelink.json
+/Users/franklin/Desktop/Automation-With-C-Sharp/FolderAutomation/obj/Debug/net9.0/FolderAutomation.dll
+/Users/franklin/Desktop/Automation-With-C-Sharp/FolderAutomation/obj/Debug/net9.0/refint/FolderAutomation.dll
+/Users/franklin/Desktop/Automation-With-C-Sharp/FolderAutomation/obj/Debug/net9.0/FolderAutomation.pdb
+/Users/franklin/Desktop/Automation-With-C-Sharp/FolderAutomation/obj/Debug/net9.0/FolderAutomation.genruntimeconfig.cache
+/Users/franklin/Desktop/Automation-With-C-Sharp/FolderAutomation/obj/Debug/net9.0/ref/FolderAutomation.dll
