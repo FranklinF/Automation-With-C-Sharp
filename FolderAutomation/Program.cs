@@ -8,19 +8,18 @@ class Program
         int i = 1;
         string file = "Readme.text";
         string content = "Demo File";
+        string filepath = @"/Users/franklin/Desktop/100days-of-Phython/Demo";
         for (i = 1; i <= 100; i++)
         {
-            string folderpath;
-            folderpath = (i < 9) ? PathLocation() + i : PathLocation() + i;
-            Directory.CreateDirectory(folderpath);
-            string finalpath = Path.Combine(folderpath, file);
+            string finalpath = Path.Combine(FolderPath(i, filepath), file);
             string data = content + i;
             File.WriteAllText(finalpath, data);
         }
+    }
 
-        static string PathLocation()
-        {
-            return @"/Users/franklin/Desktop/100days-of-Phython/Demo0";
-        }
+    private static string FolderPath(int i, string filepath)
+    {
+        Directory.CreateDirectory((i < 9) ? filepath + "0" + i : filepath + i);
+        return (i < 9) ? filepath + "0" + i : filepath + i;
     }
 }
