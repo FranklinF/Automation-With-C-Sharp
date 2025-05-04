@@ -6,22 +6,21 @@ class Program
     public static void Main()
     {
         int i = 1;
+        string file = "Readme.text";
+        string content = "Demo File";
         for (i = 1; i <= 100; i++)
         {
             string folderpath;
-
-            if (i < 9)
-                folderpath = @"/Users/franklin/Desktop/100days-of-Phython/Demo0" + i;
-            else
-                folderpath = @"/Users/franklin/Desktop/100days-of-Phython/Demo" + i;
-
-            string file = "Readme.text";
-
+            folderpath = (i < 9) ? PathLocation() + i : PathLocation() + i;
             Directory.CreateDirectory(folderpath);
             string finalpath = Path.Combine(folderpath, file);
-
-            string data = "Demo File" + i;
+            string data = content + i;
             File.WriteAllText(finalpath, data);
+        }
+
+        static string PathLocation()
+        {
+            return @"/Users/franklin/Desktop/100days-of-Phython/Demo0";
         }
     }
 }

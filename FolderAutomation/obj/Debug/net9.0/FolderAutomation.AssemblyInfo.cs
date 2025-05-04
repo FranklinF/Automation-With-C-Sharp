@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FolderAutomation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7e0a59407563eeb07c0d225932a15bca1ee4db7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c20d0cf1fc9289b64290f9d688a16b06ded57ec0")]
 [assembly: System.Reflection.AssemblyProductAttribute("FolderAutomation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FolderAutomation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
