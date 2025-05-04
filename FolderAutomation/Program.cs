@@ -19,7 +19,7 @@ class Program
 
     private static string FolderPath(int i, string filepath)
     {
-        Directory.CreateDirectory((i < 9) ? filepath + "0" + i : filepath + i);
-        return (i < 9) ? filepath + "0" + i : filepath + i;
+        Directory.CreateDirectory((i <= 9) ? filepath + "0" + i : filepath + i);
+        return (i <= 9) ? filepath + "0" + i : filepath + i;
     }
 }
